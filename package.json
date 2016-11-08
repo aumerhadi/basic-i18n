@@ -1,16 +1,26 @@
 {
   "name": "basic-i18n",
-  "version": "0.0.1",
-  "description": "localizations for node projects",
+  "version": "0.1.0",
+  "description": "Simple node module for node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aumerhadi/basic-i18n.git"
+  },
   "keywords": [
-    "node",
+    "i18n",
     "localization",
-    "i18n"
+    "node",
+	"internationalization",
+    "js"
   ],
-  "author": "Aumer Hadi",
-  "license": "MIT"
+  "author": "Aumer Hadi <ahadi@aumerhadi.com> (http://www.aumerhadi.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aumerhadi/basic-i18n/issues"
+  },
+  "homepage": "https://github.com/aumerhadi/basic-i18n"
 }
